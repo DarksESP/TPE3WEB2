@@ -29,7 +29,7 @@ Este es el formato esperado por la API para enviar los datos de un juego en los 
 
   "nombre": "The Witcher 3",
 
-  "id_consola": 25,
+  "id_consola": 33,
 
   "genero": "rpg",
 
