@@ -92,7 +92,7 @@ class juegosController
 
         $this->modelJuegos->removeJuego($idJuego);
 
-        return $res->json("Eliminado: " + $juego, 200);
+        return $res->json( $juego, 200);
     }
 
     public function mostrarError400($req, $res)
